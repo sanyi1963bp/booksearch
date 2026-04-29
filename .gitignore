@@ -4,4 +4,10 @@ __pycache__/
 .env
 *.txt
 !README.md
+!requirements.txt
 gemini-code-*.py
+*.exe
+konyv_kerso_config.json
+db_info.py
+db_stat.py
+db_stat2.py
